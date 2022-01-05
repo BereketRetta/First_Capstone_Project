@@ -22,9 +22,9 @@
 - Git and GitHub
 
 # Live Demo
-> Project live demo [link](https://wes-isaac.github.io/Capstone_Project_Module_One/);
+> Project live demo [link](https://bereketretta.github.io/First_Capstone_Project/);
 
-> video presentation [link](https://www.loom.com/share/f1d16b08241149f6be4532e90b00c2fb);
+> video presentation [link](https://www.loom.com/share/af4893c1d0fd411c96fc0e0a734b5ded);
 
 ## Getting Started
 
