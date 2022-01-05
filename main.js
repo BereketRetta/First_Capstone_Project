@@ -13,16 +13,16 @@ for (let i = 0; i < menuLis.length; i += 1) {
 
 const speakers = [
   {
-    name: 'Brad Traversy',
-    career: 'Youtuber,Instructor,Web-developer',
-    description: 'Brad Traversy has been programming for around 12 years and teaching for almost 5 years. He is the owner of Traversy Media which is a successful web development YouTube channel.',
-    img: './images/Brad_1_200x200.jpg',
-  },
-  {
     name: 'Ariel Camus',
     career: 'CEO and founder of Microverse',
     description: 'Ariel Camus has been programming for around 12 years and teaching for almost 5 years. He is the owner of lorem ipsum which is a successful web development YouTube channel.',
     img: './images/Ariel_200x200.jpg',
+  },
+  {
+    name: 'Brad Traversy',
+    career: 'Youtuber,Instructor,Web-developer',
+    description: 'Brad Traversy has been programming for around 12 years and teaching for almost 5 years. He is the owner of Traversy Media which is a successful web development YouTube channel.',
+    img: './images/Brad_1_200x200.jpg',
   },
   {
     name: 'Mosh Hamedani',
