@@ -224,23 +224,6 @@ main {
   margin: 10px auto;
 }
 
-/* .past-event img:hover {
-  opacity: 1;
-}
-
-.past-event .past-event-text {
-  width: 80%;
-  position: absolute;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  color: #272a31;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-} */
-
 .section-5 {
   width: 100%;
   background: #272a31;
